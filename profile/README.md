@@ -14,9 +14,9 @@ The excel sheet of unit tests can be found at the following
 The project's Discord link unfortunately expires every 7 days, so please obtain a valid link from either the professor, or former students.
 
 ## History
-### 2017 (?) - Josh Gatmaitan
+### 2017 (?) - Josh Gatmaitan, under Professor George Eaton
   - created a Python library to perform basic arithmetic operations with the Raspberry Pi & GPIO.
 
-### 2024 - Scott, Marina, Julia, and Melina
+### 2024 - Scott, Marina, Julia, and Melina, under Professor George Eaton
   - created a series of unit tests and dependencies
   - using PyQT, GUI interactions with ALU boards is now possible
