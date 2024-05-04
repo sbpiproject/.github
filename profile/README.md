@@ -15,8 +15,10 @@ The project's Discord link unfortunately expires every 7 days, so please obtain 
 
 ## History
 ### 2017 (?) - Josh Gatmaitan, under Professor George Eaton
+  - Performed on a Raspberry Pi 3B
   - created a Python library to perform basic arithmetic operations with the Raspberry Pi & GPIO.
 
 ### 2024 - Scott, Marina, Julia, and Melina, under Professor George Eaton
+  - Performed on a Raspberry Pi 3B
   - created a series of unit tests and dependencies
   - using PyQT, GUI interactions with ALU boards is now possible
