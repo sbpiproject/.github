@@ -1,7 +1,8 @@
 # Start Here
 
 ## Project Information
-This project's goal is to perform a variety of arithmetic tests on Saddleback's CS3A student project boards.
+This project's goal is to perform a variety of arithmetic tests on Saddleback's CS3A student project boards, then to provide feedback so students can improve their project boards.
+This feedback has been automated in a variety of ways, and can be configured to provide anywhere from entire board tests, down to single addition tests.
 
 ## Documentation
 ### Unit Tests
