@@ -8,10 +8,14 @@ This feedback has been automated in a variety of ways, and can be configured to 
 ### Unit Tests
 The excel sheet of unit tests can be found at the following
 [link](https://docs.google.com/spreadsheets/d/1kLADODBz12c9WI8fKWqC_PL8_qihybI5VnlKuDWu7xk/edit#gid=0).
+
+
 (Obtain authorization from either the Professor, or previous students)
 
 ### Discord
 Please visit our [README](https://github.com/sbpiproject/ALU-Tester/blob/main/README.md) to find the Discord link.
+
+(Obtain authorization from either the Professor, or previous students)
 
 ## History
 ### 2017 (?) - Josh Gatmaitan, under Professor George Eaton
