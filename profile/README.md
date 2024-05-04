@@ -11,7 +11,7 @@ The excel sheet of unit tests can be found at the following
 (Obtain authorization from either the Professor, or previous students)
 
 ### Discord
-The project's Discord link unfortunately expires every 7 days, so please obtain a valid link from either the professor, or former students.
+Please visit our [README](https://github.com/sbpiproject/ALU-Tester/blob/main/README.md) to find the Discord link.
 
 ## History
 ### 2017 (?) - Josh Gatmaitan, under Professor George Eaton
